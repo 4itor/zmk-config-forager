@@ -35,6 +35,6 @@ manifest:
       revision: main
     - name: zmk-dongle-screen
       remote: janpfischer
-      revision: main
+      revision: reconnection_wake
   self:
     path: config
