@@ -208,11 +208,13 @@
         combo_win_switch {
             bindings = <&to 0>;
             key-positions = <20 0>;
+            layers = <0 1>;
         };
 
         combo_mac_switch {
             bindings = <&to 1>;
             key-positions = <29 9>;
+            layers = <0 1>;
         };
 
         combo_ble_clear_all {
