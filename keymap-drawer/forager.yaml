@@ -1,0 +1,344 @@
+layout: {zmk_keyboard: forager}
+layers:
+  Windows:
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - {t: A, h: LGUI}
+  - {t: S, h: LEFT ALT}
+  - {t: D, h: LCTRL}
+  - {t: F, h: LSHIFT}
+  - G
+  - H
+  - {t: J, h: RSHIFT}
+  - {t: K, h: RCTRL}
+  - {t: L, h: LALT}
+  - {t: ;, h: LGUI}
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - {t: TAB, h: Num}
+  - {t: BSPC, h: Func}
+  - {t: SPACE, h: Navi}
+  - {t: RETURN, h: Sym}
+  MacOS:
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - {t: A, h: LGUI}
+  - {t: S, h: LEFT ALT}
+  - {t: D, h: LCTRL}
+  - {t: F, h: LSHIFT}
+  - G
+  - H
+  - {t: J, h: RSHIFT}
+  - {t: K, h: RCTRL}
+  - {t: L, h: LALT}
+  - {t: ;, h: LGUI}
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - {t: TAB, h: Num}
+  - {t: BSPC, h: Func}
+  - {t: SPACE, h: Navi}
+  - {t: RETURN, h: Sym}
+  Num:
+  - ESC
+  - ''
+  - ''
+  - ''
+  - (
+  - )
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - LGUI
+  - LALT
+  - LCTRL
+  - LSHFT
+  - KP PLUS
+  - .
+  - '4'
+  - '5'
+  - '6'
+  - ;
+  - ''
+  - ''
+  - ''
+  - ''
+  - KP MINUS
+  - ','
+  - '1'
+  - '2'
+  - '3'
+  - /
+  - {type: held}
+  - {t: BSPC, h: Func}
+  - {t: SPACE, h: Navi}
+  - {t: ENTER, h: Sym}
+  Sym:
+  - '!'
+  - '@'
+  - '#'
+  - $
+  - '%'
+  - ^
+  - '&'
+  - '*'
+  - (
+  - )
+  - AltGr+1
+  - '~'
+  - '-'
+  - +
+  - '|'
+  - '`'
+  - '"'
+  - ''''
+  - '{'
+  - '}'
+  - ''
+  - '&m_updir'
+  - _
+  - '='
+  - \
+  - ''
+  - '&m_assign'
+  - '&m_add'
+  - '['
+  - ']'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  Navi:
+  - AltGr+;
+  - AltGr+`
+  - AltGr+'
+  - AltGr+6
+  - Sft+AltGr+'
+  - HOME
+  - PG DN
+  - PG UP
+  - END
+  - ''
+  - LGUI
+  - LALT
+  - LCTRL
+  - LSHFT
+  - AltGr+1
+  - LEFT
+  - DOWN
+  - UP
+  - RIGHT
+  - ''
+  - Sft+AltGr+'
+  - AltGr+Sft+C
+  - AltGr+C
+  - Alt+Sft+`
+  - AltGr+/
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Ctl+Alt+Gui+SPACE
+  - DEL
+  - {type: held}
+  - {t: ▽, type: trans}
+  Func:
+  - Q
+  - W
+  - Sft+TAB
+  - '&swap'
+  - '&tabswap'
+  - ''
+  - F7
+  - F8
+  - F9
+  - F10
+  - LGUI
+  - LALT
+  - LCTRL
+  - {t: Gui+Sft+SPACE, h: LEFT SHIFT}
+  - ''
+  - ''
+  - F4
+  - F5
+  - F6
+  - F11
+  - Gui+Z
+  - Gui+X
+  - Gui+C
+  - Gui+V
+  - Gui+A
+  - ''
+  - F1
+  - F2
+  - F3
+  - F12
+  - {t: TAB, h: Num}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  Adjust:
+  - '&studio_unlock'
+  - ''
+  - Gui+-
+  - Gui+=
+  - Gui+0
+  - PLAY
+  - PREV
+  - NEXT
+  - ''
+  - ''
+  - Gui+Sft+3
+  - Gui+Sft+4
+  - Gui+Sft+5
+  - ''
+  - ''
+  - MUTE
+  - VOL DN
+  - VOL UP
+  - Ctl+Gui+Q
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - BRI DN
+  - BRI UP
+  - ''
+  - ''
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  Connect:
+  - '&bootloader'
+  - ''
+  - ''
+  - ''
+  - OUT USB
+  - OUT BLE
+  - ''
+  - ''
+  - ''
+  - '&bootloader'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '&studio_unlock'
+  - ''
+  - ''
+  - F23
+  - F24
+  - {t: BT, h: '0'}
+  - {t: BT, h: '1'}
+  - {t: BT, h: '2'}
+  - {t: BT, h: '3'}
+  - {t: BT, h: '4'}
+  - {type: held}
+  - {type: held}
+  - '&soft_off'
+  - ''
+combos:
+- p: [2, 3]
+  k: ESC
+- p: [6, 7]
+  k: ESC
+- p: [26, 27]
+  k: Ctl+D
+  l: [Windows]
+- p: [27, 28]
+  k: Ctl+E
+  l: [Windows]
+- p: [13, 16]
+  k: '&caps_word'
+  l: [Windows, MacOS]
+- p: [20, 21]
+  k: Ctl+X
+  l: [Windows]
+- p: [21, 22]
+  k: Ctl+C
+  l: [Windows]
+- p: [22, 23]
+  k: Ctl+V
+  l: [Windows]
+- p: [24, 23]
+  k: Ctl+A
+  l: [Windows]
+- p: [20, 21]
+  k: Gui+X
+  l: [MacOS]
+- p: [21, 22]
+  k: Gui+C
+  l: [MacOS]
+- p: [22, 23]
+  k: Gui+V
+  l: [MacOS]
+- p: [23, 24]
+  k: Gui+A
+  l: [MacOS]
+- p: [20, 0]
+  k: {t: Windows, h: toggle}
+  l: [Windows, MacOS]
+  a: left
+  o: .05
+- p: [29, 9]
+  k: {t: MacOS, h: toggle}
+  l: [Windows, MacOS]
+  a: right
+  o: .05
+- p: [5, 9]
+  k: BT CLR ALL
+  l: [Connect]
+  a: top
+  o: .2
+- p: [5, 6]
+  k: BT CLR
+  l: [Connect]
+- p: [20, 21]
+  k: '&bootloader'
+  l: [Connect]
+- p: [29, 28]
+  k: '&sys_reset'
+  l: [Connect]
