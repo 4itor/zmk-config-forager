@@ -698,22 +698,6 @@ path.combo { stroke: #7f7f7f; }
 <rect rx="6" ry="6" x="518" y="20" width="28" height="26" class="combo"/>
 <text x="532" y="33" class="combo tap">ESC</text>
 </g>
-<g class="combo combopos-2">
-<path d="M28,118 l0,37" class="combo"/>
-<path d="M28,118 l0,-37" class="combo"/>
-<rect rx="6" ry="6" x="14" y="105" width="28" height="26" class="combo"/>
-<a href="#Windows">
-<text x="28" y="118" class="combo tap layer-activator">Windows</text>
-</a><text x="28" y="129" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-3">
-<path d="M672,118 l0,37" class="combo"/>
-<path d="M672,118 l0,-37" class="combo"/>
-<rect rx="6" ry="6" x="658" y="105" width="28" height="26" class="combo"/>
-<a href="#MacOS">
-<text x="672" y="118" class="combo tap layer-activator">MacOS</text>
-</a><text x="672" y="129" class="combo hold">toggle</text>
-</g>
 </g>
 </g>
 <g transform="translate(30, 1053)" class="layer-Sym">
@@ -859,22 +843,6 @@ path.combo { stroke: #7f7f7f; }
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="518" y="20" width="28" height="26" class="combo"/>
 <text x="532" y="33" class="combo tap">ESC</text>
-</g>
-<g class="combo combopos-2">
-<path d="M28,118 l0,37" class="combo"/>
-<path d="M28,118 l0,-37" class="combo"/>
-<rect rx="6" ry="6" x="14" y="105" width="28" height="26" class="combo"/>
-<a href="#Windows">
-<text x="28" y="118" class="combo tap layer-activator">Windows</text>
-</a><text x="28" y="129" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-3">
-<path d="M672,118 l0,37" class="combo"/>
-<path d="M672,118 l0,-37" class="combo"/>
-<rect rx="6" ry="6" x="658" y="105" width="28" height="26" class="combo"/>
-<a href="#MacOS">
-<text x="672" y="118" class="combo tap layer-activator">MacOS</text>
-</a><text x="672" y="129" class="combo hold">toggle</text>
 </g>
 </g>
 </g>
@@ -1031,22 +999,6 @@ path.combo { stroke: #7f7f7f; }
 <rect rx="6" ry="6" x="518" y="20" width="28" height="26" class="combo"/>
 <text x="532" y="33" class="combo tap">ESC</text>
 </g>
-<g class="combo combopos-2">
-<path d="M28,118 l0,37" class="combo"/>
-<path d="M28,118 l0,-37" class="combo"/>
-<rect rx="6" ry="6" x="14" y="105" width="28" height="26" class="combo"/>
-<a href="#Windows">
-<text x="28" y="118" class="combo tap layer-activator">Windows</text>
-</a><text x="28" y="129" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-3">
-<path d="M672,118 l0,37" class="combo"/>
-<path d="M672,118 l0,-37" class="combo"/>
-<rect rx="6" ry="6" x="658" y="105" width="28" height="26" class="combo"/>
-<a href="#MacOS">
-<text x="672" y="118" class="combo tap layer-activator">MacOS</text>
-</a><text x="672" y="129" class="combo hold">toggle</text>
-</g>
 </g>
 </g>
 <g transform="translate(30, 1755)" class="layer-Func">
@@ -1195,22 +1147,6 @@ path.combo { stroke: #7f7f7f; }
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="518" y="20" width="28" height="26" class="combo"/>
 <text x="532" y="33" class="combo tap">ESC</text>
-</g>
-<g class="combo combopos-2">
-<path d="M28,118 l0,37" class="combo"/>
-<path d="M28,118 l0,-37" class="combo"/>
-<rect rx="6" ry="6" x="14" y="105" width="28" height="26" class="combo"/>
-<a href="#Windows">
-<text x="28" y="118" class="combo tap layer-activator">Windows</text>
-</a><text x="28" y="129" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-3">
-<path d="M672,118 l0,37" class="combo"/>
-<path d="M672,118 l0,-37" class="combo"/>
-<rect rx="6" ry="6" x="658" y="105" width="28" height="26" class="combo"/>
-<a href="#MacOS">
-<text x="672" y="118" class="combo tap layer-activator">MacOS</text>
-</a><text x="672" y="129" class="combo hold">toggle</text>
 </g>
 </g>
 </g>
@@ -1361,22 +1297,6 @@ path.combo { stroke: #7f7f7f; }
 <rect rx="6" ry="6" x="518" y="20" width="28" height="26" class="combo"/>
 <text x="532" y="33" class="combo tap">ESC</text>
 </g>
-<g class="combo combopos-2">
-<path d="M28,118 l0,37" class="combo"/>
-<path d="M28,118 l0,-37" class="combo"/>
-<rect rx="6" ry="6" x="14" y="105" width="28" height="26" class="combo"/>
-<a href="#Windows">
-<text x="28" y="118" class="combo tap layer-activator">Windows</text>
-</a><text x="28" y="129" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-3">
-<path d="M672,118 l0,37" class="combo"/>
-<path d="M672,118 l0,-37" class="combo"/>
-<rect rx="6" ry="6" x="658" y="105" width="28" height="26" class="combo"/>
-<a href="#MacOS">
-<text x="672" y="118" class="combo tap layer-activator">MacOS</text>
-</a><text x="672" y="129" class="combo hold">toggle</text>
-</g>
 </g>
 </g>
 <g transform="translate(30, 2457)" class="layer-Connect">
@@ -1515,22 +1435,6 @@ path.combo { stroke: #7f7f7f; }
 <text x="532" y="33" class="combo tap">ESC</text>
 </g>
 <g class="combo combopos-2">
-<path d="M28,118 l0,37" class="combo"/>
-<path d="M28,118 l0,-37" class="combo"/>
-<rect rx="6" ry="6" x="14" y="105" width="28" height="26" class="combo"/>
-<a href="#Windows">
-<text x="28" y="118" class="combo tap layer-activator">Windows</text>
-</a><text x="28" y="129" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-3">
-<path d="M672,118 l0,37" class="combo"/>
-<path d="M672,118 l0,-37" class="combo"/>
-<rect rx="6" ry="6" x="658" y="105" width="28" height="26" class="combo"/>
-<a href="#MacOS">
-<text x="672" y="118" class="combo tap layer-activator">MacOS</text>
-</a><text x="672" y="129" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-4">
 <path d="M560,53 l-93,-8" class="combo"/>
 <path d="M560,53 l93,8" class="combo"/>
 <rect rx="6" ry="6" x="546" y="40" width="28" height="26" class="combo"/>
@@ -1538,17 +1442,17 @@ path.combo { stroke: #7f7f7f; }
 <tspan x="560" dy="-0.6em">BT</tspan><tspan x="560" dy="1.2em">…</tspan>
 </text>
 </g>
-<g class="combo combopos-5">
+<g class="combo combopos-3">
 <rect rx="6" ry="6" x="462" y="28" width="28" height="26" class="combo"/>
 <text x="476" y="41" class="combo tap">
 <tspan x="476" dy="-0.6em">BT</tspan><tspan x="476" dy="1.2em">CLR</tspan>
 </text>
 </g>
-<g class="combo combopos-6">
+<g class="combo combopos-4">
 <rect rx="6" ry="6" x="42" y="152" width="28" height="26" class="combo"/>
 <text x="56" y="165" class="combo tap"><tspan style="font-size: 64%">&amp;bootloader</tspan></text>
 </g>
-<g class="combo combopos-7">
+<g class="combo combopos-5">
 <rect rx="6" ry="6" x="630" y="152" width="28" height="26" class="combo"/>
 <text x="644" y="165" class="combo tap"><tspan style="font-size: 70%">&amp;sys_reset</tspan></text>
 </g>
