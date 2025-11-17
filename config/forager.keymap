@@ -240,6 +240,18 @@
             key-positions = <29 28>;
             layers = <10>;
         };
+
+        BC_Inspection {
+            bindings = <&kp LC(LA(F1))>;
+            key-positions = <24 25>;
+            layers = <0>;
+        };
+
+        Chrome_Devel {
+            bindings = <&kp LC(LS(I))>;
+            key-positions = <4 5>;
+            layers = <0>;
+        };
     };
 
     keymap {
