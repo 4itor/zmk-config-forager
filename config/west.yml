@@ -19,7 +19,7 @@ manifest:
   projects:
     - name: zmk
       remote: zmkfirmware
-      revision: v0.3.0
+      revision: v0.3
       import: app/west.yml
     - name: forager-zmk-module-dongle
       remote: carrefinho
