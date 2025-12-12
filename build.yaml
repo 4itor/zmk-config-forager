@@ -29,6 +29,7 @@ include:
   - board: seeeduino_xiao_ble
     #shield: forager_dongle prospector_adapter
     shield: forager_dongle dongle_screen
+    cmake-args: -DCONFIG_DONGLE_SCREEN_IDLE_TIMEOUT_S=900 -DCONFIG_DONGLE_SCREEN_MAX_BRIGHTNESS=10
     #cmake-args: -DCONFIG_ZMK_SPLIT=y -DCONFIG_ZMK_SPLIT_ROLE_CENTRAL=y
     snippet: studio-rpc-usb-uart
     artifact-name: forager_dongle_prospector
