@@ -271,7 +271,7 @@
             display-name = "MacOS";
             bindings = <
   &kp Q       &kp W           &kp E        &kp R         &kp T         &kp Y        &kp U         &kp I        &kp O       &kp P
-  &ht LGUI A  &ht LEFT_ALT S  &ht LCTRL D  &ht LSHIFT F  &kp G         &kp H        &ht RSHIFT J  &ht RCTRL K  &ht LALT L  &ht LGUI SEMI
+  &pht LGUI A &ht LEFT_ALT S  &ht LCTRL D  &ht LSHIFT F  &kp G         &kp H        &ht RSHIFT J  &ht RCTRL K  &ht LALT L  &pht LGUI SEMI
   &kp Z       &kp X           &kp C        &kp V         &kp B         &kp N        &kp M         &kp COMMA    &kp DOT     &kp SLASH
                                            &lt 3 TAB     &lt 7 BSPC    &lt 5 SPACE  &lt 4 RETURN
             >;
