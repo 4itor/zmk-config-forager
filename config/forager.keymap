@@ -255,13 +255,13 @@
 
         combo_lshift {
             bindings = <&kp LSHFT>;
-            key-positions = <12 13>;
+            key-positions = <13 14>;
             layers = <0 1>;
         };
 
         combo_rshift {
             bindings = <&kp RSHFT>;
-            key-positions = <16 17>;
+            key-positions = <16 15>;
             layers = <0 1>;
         };
     };
