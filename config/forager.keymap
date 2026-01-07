@@ -262,6 +262,7 @@
         combo_rshift {
             bindings = <&kp RSHFT>;
             key-positions = <16 17>;
+            layers = <0 1>;
         };
     };
 
