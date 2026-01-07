@@ -241,16 +241,27 @@
             layers = <10>;
         };
 
-        BC_Inspection {
+        combo_bc_inspect {
             bindings = <&kp LC(LA(F1))>;
             key-positions = <24 25>;
             layers = <0>;
         };
 
-        Chrome_Devel {
+        combo_chrome_devel {
             bindings = <&kp LC(LS(I))>;
             key-positions = <4 5>;
             layers = <0>;
+        };
+
+        combo_lshift {
+            bindings = <&kp LSHFT>;
+            key-positions = <12 13>;
+            layers = <0 1>;
+        };
+
+        combo_rshift {
+            bindings = <&kp RSHFT>;
+            key-positions = <16 17>;
         };
     };
 
@@ -270,10 +281,10 @@
         Mac_Base {
             display-name = "MacOS";
             bindings = <
-  &kp Q       &kp W           &kp E        &kp R         &kp T         &kp Y        &kp U         &kp I        &kp O       &kp P
-  &pht LGUI A &ht LEFT_ALT S  &ht LCTRL D  &ht LSHIFT F  &kp G         &kp H        &ht RSHIFT J  &ht RCTRL K  &ht LALT L  &pht LGUI SEMI
-  &kp Z       &kp X           &kp C        &kp V         &kp B         &kp N        &kp M         &kp COMMA    &kp DOT     &kp SLASH
-                                           &lt 3 TAB     &lt 7 BSPC    &lt 5 SPACE  &lt 4 RETURN
+  &kp Q        &kp W           &kp E        &kp R         &kp T         &kp Y        &kp U         &kp I        &kp O       &kp P
+  &pht LGUI A  &ht LEFT_ALT S  &ht LCTRL D  &ht LSHIFT F  &kp G         &kp H        &ht RSHIFT J  &ht RCTRL K  &ht LALT L  &pht LGUI SEMI
+  &kp Z        &kp X           &kp C        &kp V         &kp B         &kp N        &kp M         &kp COMMA    &kp DOT     &kp SLASH
+                                            &lt 3 TAB     &lt 7 BSPC    &lt 5 SPACE  &lt 4 RETURN
             >;
         };
 
